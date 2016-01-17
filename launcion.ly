@@ -34,17 +34,17 @@ globalTempo = {
 			\include "launcion-tenor.inc"
 			%\include "launcion-baritono.inc"
 		>>
-		%\new StaffGroup <<
-		%	\include "launcion-violin.inc"
+		\new StaffGroup <<
+			\include "launcion-violin.inc"
 		%	\include "launcion-viola.inc"
 		%	\include "launcion-cello.inc"
-		%>>
+		>>
 
 	>>
 
 	\layout {
 		\context {
-			%\RemoveEmptyStaffContext
+			\RemoveEmptyStaffContext
 		}
 	}
 }
