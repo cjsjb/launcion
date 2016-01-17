@@ -42,7 +42,7 @@
 		a 1 (
 		% warning: overlong bar truncated here |
 %% 25
-		fs 2 ~ fs 8 ) r r b,  |
+		fs 8 ~ fs 2 ) r 8 r b,  |
 		g 4 g g fs  |
 		e 2 \times 2/3 { e 4 d e }  |
 		fs 2. ( g 4
@@ -53,7 +53,7 @@
 		a 2. r4  |
 		a 1 (
 		% warning: overlong bar truncated here |
-		fs 2 ~ fs 8 ) r r b,  |
+		fs 8 ~ fs 2 ) r 8 r b,  |
 		g 4 g g fs  |
 %% 35
 		e 4. r8 \times 2/3 { e 4 d cs }  |
