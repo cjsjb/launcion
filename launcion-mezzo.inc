@@ -14,48 +14,48 @@
 		\time 4/4
 
 		\clef "treble"
-		\key d \major
+		\key e \major
 		R1*4  |
 %% 5
-		r2 \times 2/3 { d' 4 e' fs' }  |
-		b 2 b  |
-		a 2 \times 2/3 { a 4 a a }  |
+		r2 \times 2/3 { e' 4 fs' gs' }  |
 		cs' 2 cs'  |
 		b 2 \times 2/3 { b 4 b b }  |
+		ds' 2 ds'  |
+		cs' 2 \times 2/3 { cs' 4 cs' cs' }  |
 %% 10
-		d' 2. d' 4  |
-		d' 4. cs' b 4  |
-		a 1  |
-		r2 \times 2/3 { d' 4 e' fs' }  |
-		b 2 b  |
-%% 15
-		a 2 \times 2/3 { a 4 a a }  |
+		e' 2. e' 4  |
+		e' 4. ds' cs' 4  |
+		b 1  |
+		r2 \times 2/3 { e' 4 fs' gs' }  |
 		cs' 2 cs'  |
+%% 15
 		b 2 \times 2/3 { b 4 b b }  |
-		d' 2. d' 4  |
-		d' 4. cs' b 4  |
+		ds' 2 ds'  |
+		cs' 2 \times 2/3 { cs' 4 cs' cs' }  |
+		e' 2. e' 4  |
+		e' 4. ds' cs' 4  |
 %% 20
-		a 1  |
-		r4. a 8 a a a a  |
-		b 4 b 8 b 4 b 8 b cs' ~  |
-		cs' 8 cs' 2 cs' 8 cs' cs'  |
-		cs' 4 cs' 8 cs' cs' cs' cs' d' ~  |
+		b 1  |
+		r4. b 8 b b b b  |
+		cs' 4 cs' 8 cs' 4 cs' 8 cs' ds' ~  |
+		ds' 8 ds' 2 ds' 8 ds' ds'  |
+		ds' 4 ds' 8 ds' ds' ds' ds' e' ~  |
 %% 25
-		d' 8 d' 2 r8 r d'  |
-		d' 4 d' d' d'  |
-		d' 2 \times 2/3 { cs' 4 b cs' }  |
-		a 2. ( b 4
+		e' 8 e' 2 r8 r e'  |
+		e' 4 e' e' e'  |
+		e' 2 \times 2/3 { ds' 4 cs' ds' }  |
+		b 2. ( cs' 4
 		% warning: overlong bar truncated here |
-		a 4 ) r8 a a a a a  |
+		b 4 ) r8 b b b b b  |
 %% 30
-		b 4 b 8 b 4 b 8 b cs' ~  |
-		cs' 8 cs' 2 cs' 8 cs' cs'  |
-		cs' 4 cs' 8 cs' cs' cs' cs' d' ~  |
-		d' 8 d' 2 r8 r d'  |
-		d' 4 d' d' d'  |
+		cs' 4 cs' 8 cs' 4 cs' 8 cs' ds' ~  |
+		ds' 8 ds' 2 ds' 8 ds' ds'  |
+		ds' 4 ds' 8 ds' ds' ds' ds' e' ~  |
+		e' 8 e' 2 r8 r e'  |
+		e' 4 e' e' e'  |
 %% 35
-		cs' 4. r8 \times 2/3 { cs' 4 b cs' }  |
-		a 1  |
+		ds' 4. r8 \times 2/3 { ds' 4 cs' ds' }  |
+		b 1  |
 		R1  |
 		\bar "|."
 	}

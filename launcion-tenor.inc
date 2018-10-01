@@ -14,50 +14,51 @@
 		\time 4/4
 
 		\clef "treble_8"
-		\key d \major
+		\key e \major
 		R1*4  |
 %% 5
-		r2 \times 2/3 { d 4 e fs }  |
-		b, 2 g  |
-		e 2 \times 2/3 { cs 4 d e }  |
-		a, 2 e  |
-		d 2 \times 2/3 { b, 4 cs d }  |
+		r2 \times 2/3 { e 4 fs gs }  |
+		cs 2 a  |
+		fs 2 \times 2/3 { ds 4 e fs }  |
+		b, 2 fs  |
+		e 2 \times 2/3 { cs 4 ds e }  |
 %% 10
-		g, 2. d 4  |
-		d 4. cs b, 4  |
-		a, 1  |
-		r2 \times 2/3 { d 4 e fs }  |
-		g 1 (  |
-%% 15
-		e 2. ) r4  |
-		fs 2 fs  |
-		fs 2 \times 2/3 { fs 4 fs fs }  |
-		g 2. g 4  |
-		g 4. fs e 4  |
-%% 20
-		d 1  |
-		r4. a, 8 fs e fs e  |
-		g 1  |
-		a 2. r4  |
+		a, 2. e 4  |
+		e 4. ds cs 4  |
+		b, 1  |
+		r2 \times 2/3 { e 4 fs gs }  |
 		a 1 (
+		% warning: overlong bar truncated here |
+%% 15
+		fs 2. ) r4  |
+		gs 2 gs  |
+		gs 2 \times 2/3 { gs 4 gs gs }  |
+		a 2. a 4  |
+		a 4. gs fs 4  |
+%% 20
+		e 1  |
+		r4. b, 8 gs fs gs fs  |
+		a 1  |
+		b 2. r4  |
+		b 1 (
 		% warning: overlong bar truncated here |
 %% 25
-		fs 8 ~ fs 2 ) r 8 r b,  |
-		g 4 g g fs  |
-		e 2 \times 2/3 { e 4 d e }  |
-		fs 2. ( g 4
+		gs 8 ~ gs 2 ) r8 r cs  |
+		a 4 a a gs  |
+		fs 2 \times 2/3 { fs 4 e fs }  |
+		gs 2. ( a 4
 		% warning: overlong bar truncated here |
-		a 2. ) r4  |
+		b 2. ) r4  |
 %% 30
-		b 1  |
-		a 2. r4  |
-		a 1 (
+		cs' 1  |
+		b 2. r4  |
+		b 1 (
 		% warning: overlong bar truncated here |
-		fs 8 ~ fs 2 ) r 8 r b,  |
-		g 4 g g fs  |
+		gs 8 ~ gs 2 ) r8 r cs  |
+		a 4 a a gs  |
 %% 35
-		e 4. r8 \times 2/3 { e 4 d cs }  |
-		d 1  |
+		fs 4. r8 \times 2/3 { fs 4 e ds }  |
+		e 1  |
 		R1  |
 		\bar "|."
 	}
@@ -68,8 +69,8 @@
 		lim -- pián -- do -- me,
 		cam -- bian -- do mi ser.
 
-		Hay u -- "na un" -- ción __
-		so -- bre mí,
+		Hay u -- "na un" -- "ción..." __
+		"...so" -- bre mí,
 		lim -- pián -- do -- me,
 		cam -- bian -- do mi ser.
 

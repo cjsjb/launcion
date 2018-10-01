@@ -12,11 +12,17 @@
 
 		\time 4/4
 		\clef "treble"
-		\key d \major
-		r2 \times 2/3 { d'' 4 e'' fs'' }  |
-		g'' 1  |
-		a'' 2 \times 2/3 { g'' 4 fs'' e'' }  |
-		d'' 1  |
+		\key e \major
+		r2 \times 2/3 { e'' 4 fs'' gs'' }  |
+		a'' 1  |
+		b'' 2 \times 2/3 { a'' 4 gs'' fs'' }  |
+		e'' 1  |
+		R1*16  |
+		gs 8 a b cs' ds' e' fs' gs'  |
+		a' 1  |
+		R1*6  |
+		gs 8 a b cs' ds' e' fs' gs'  |
+		a' 1  |
 	}
 
 >>

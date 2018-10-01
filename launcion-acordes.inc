@@ -4,21 +4,21 @@
 		\set chordChanges = ##t
 
 		% intro
-		R1  | g1 | a1 | d1 | d1 |
+		R1  | a1 | b1 | e1 | e1 |
 
 		% hay una uncion...
-		g1 | a1 | fs1:m | b1:m |
-		g1 | a1 | d1 | d1 |
+		a1 | b1 | gs1:m | cs1:m |
+		a1 | b1 | e1 | e1 |
 
 		% hay una uncion...
-		g1 | a1 | fs1:m | b1:m |
-		g1 | a1 | d1 | d1:7 |
+		a1 | b1 | gs1:m | cs1:m |
+		a1 | b1 | e1 | e1:7 |
 
 		% mi espiritu y mi alma...
-		g1 | a1 | fs1:m | b1:m |
-		g1 | a1 | d1 | d1:7 |
+		a1 | b1 | gs1:m | cs1:m |
+		a1 | b1 | e1 | e1:7 |
 
 		% mi espiritu y mi alma...
-		g1 | a1 | fs1:m | b1:m |
-		g1 | a1 | d1 | d1 |
+		a1 | b1 | gs1:m | cs1:m |
+		a1 | b1 | e1 | e1 |
 	}

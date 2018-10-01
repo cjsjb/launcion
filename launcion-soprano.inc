@@ -14,47 +14,47 @@
 		\time 4/4
 
 		\clef "treble"
-		\key d \major
+		\key e \major
 		R1*4  |
 %% 5
-		r2 \times 2/3 { d' 4 e' fs' }  |
-		b 2 g'  |
-		e' 2 \times 2/3 { cs' 4 d' e' }  |
-		a 2 e'  |
-		d' 2 \times 2/3 { b 4 cs' d' }  |
+		r2 \times 2/3 { e' 4 fs' gs' }  |
+		cs' 2 a'  |
+		fs' 2 \times 2/3 { ds' 4 e' fs' }  |
+		b 2 fs'  |
+		e' 2 \times 2/3 { cs' 4 ds' e' }  |
 %% 10
-		g 2. d' 4  |
-		d' 4. cs' b 4  |
-		a 1  |
-		r2 \times 2/3 { d' 4 e' fs' }  |
-		b 2 g'  |
+		a 2. e' 4  |
+		e' 4. ds' cs' 4  |
+		b 1  |
+		r2 \times 2/3 { e' 4 fs' gs' }  |
+		cs' 2 a'  |
 %% 15
-		e' 2 \times 2/3 { cs' 4 d' e' }  |
-		a 2 e'  |
-		d' 2 \times 2/3 { b 4 cs' d' }  |
-		g 2. d' 4  |
-		d' 4. cs' b 4  |
+		fs' 2 \times 2/3 { ds' 4 e' fs' }  |
+		b 2 fs'  |
+		e' 2 \times 2/3 { cs' 4 ds' e' }  |
+		a 2. e' 4  |
+		e' 4. ds' cs' 4  |
 %% 20
-		a 1  |
-		r4. a 8 fs' e' fs' e'  |
-		g' 4 b 8 g' 4 g' 8 fs' fs' ~  |
-		fs' 8 e' 2 d' 8 d' e'  |
-		fs' 4 fs' 8 g' fs' e' d' e' ~  |
+		b 1  |
+		r4. b 8 gs' fs' gs' fs'  |
+		a' 4 cs' 8 a' 4 a' 8 gs' gs' ~  |
+		gs' 8 fs' 2 e' 8 e' fs'  |
+		gs' 4 gs' 8 a' gs' fs' e' fs' ~  |
 %% 25
-		e' 8 d' 2 r8 r b  |
-		g' 4 g' g' fs'  |
-		e' 2 \times 2/3 { e' 4 d' e' }  |
-		fs' 1 ~  |
-		fs' 4 r8 a fs' e' fs' e'  |
+		fs' 8 e' 2 r8 r cs'  |
+		a' 4 a' a' gs'  |
+		fs' 2 \times 2/3 { fs' 4 e' fs' }  |
+		gs' 1 ~  |
+		gs' 4 r8 b gs' fs' gs' fs'  |
 %% 30
-		g' 4 b 8 g' 4 g' 8 fs' fs' ~  |
-		fs' 8 e' 2 d' 8 d' e'  |
-		fs' 4 fs' 8 g' fs' e' d' e' ~  |
-		e' 8 d' 2 r8 r b  |
-		g' 4 g' g' fs'  |
+		a' 4 cs' 8 a' 4 a' 8 gs' gs' ~  |
+		gs' 8 fs' 2 e' 8 e' fs'  |
+		gs' 4 gs' 8 a' gs' fs' e' fs' ~  |
+		fs' 8 e' 2 r8 r cs'  |
+		a' 4 a' a' gs'  |
 %% 35
-		e' 4. r8 \times 2/3 { e' 4 d' cs' }  |
-		d' 1  |
+		fs' 4. r8 \times 2/3 { fs' 4 e' ds' }  |
+		e' 1  |
 		R1  |
 		\bar "|."
 	}
