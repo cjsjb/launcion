@@ -4,9 +4,11 @@
 #(ly:set-option 'point-and-click #f)
 \include "english.ly"
 \header {
-	title = "La unción"
-	instrument = "Tenor"
+	title = "Hay una unción"
+	composer = "Marleny Zambrana"
 	tagline = "Coro Juvenil San Juan Bosco"
+	copyright = "Copyright © 2014 Telemusik Internacional, ASCAP"
+	instrument = "Tenor"
 }
 #(set-global-staff-size 20)
 #(set-default-paper-size "letter")
