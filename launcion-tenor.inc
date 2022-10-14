@@ -63,7 +63,7 @@
 		\bar "|."
 	}
 
-	\lyricsto "voz-tenor" \new Lyrics \lyricmode {
+	\new Lyrics \lyricsto "voz-tenor" {
 		Hay u -- "na un" -- ción a -- quí
 		ca -- yen -- do so -- bre mí,
 		lim -- pián -- do -- me,

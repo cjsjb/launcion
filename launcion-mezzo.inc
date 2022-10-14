@@ -60,7 +60,7 @@
 		\bar "|."
 	}
 
-	\lyricsto "voz-mezzo" \new Lyrics \lyricmode {
+	\new Lyrics \lyricsto "voz-mezzo" {
 		Hay u -- "na un" -- ción a -- quí
 		ca -- yen -- do so -- bre mí,
 		lim -- pián -- do -- me,
